@@ -41,5 +41,7 @@
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Галанін Ростислав
 Результат роботи
+
+18. Американці вважають нещасливим число 13, китайці - 4. Для спільних навчань штаб української армії вирішив не використовувати бойову техніку, номер якої містить числа 4 або 13 (40123, 13313, 12345 або 13040), щоб не бентежити іноземних колег. В розпорядженні армії 100000 одиниць бойової техніки. Визначити скільки всього номерів доведеться виключити
 (https://github.com/ppc-ntu-khpi/java-arrays-Rostislav22222/blob/master/png%201.png)
 (https://github.com/ppc-ntu-khpi/java-arrays-Rostislav22222/blob/master/png%202.png)
